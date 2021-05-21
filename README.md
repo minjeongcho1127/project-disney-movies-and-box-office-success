@@ -1,6 +1,6 @@
 # What contributes to the success of Disney movies?
 
-![image](TWDC-thumb.png)
+![image](https://thewaltdisneycompany.com/app/uploads/TWDC-thumb.png)
 
 ### - Goal: Analyze movies produced by Disney to figure out the relationship between Disney movies and Box Office Success
 - These questions of interest will be answered below by building a linear regression model and computing confidence intervals for regression parameters:
